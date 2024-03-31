@@ -1,0 +1,1 @@
+At first I tried the same model structure as described in lecture (handwriting.py). Final accuracy of my model was 0.0565 with loss of 34902. After adding second convolutional and second pulling layer, my model was able to achieve accuracy of 0.9507 with minimal loss.
